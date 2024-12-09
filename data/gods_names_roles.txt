@@ -1,0 +1,131 @@
+Arachne,Assassin
+Awilix,Assassin
+Bakasura,Assassin
+Bastet,Assassin
+Camazotz,Assassin
+Cliodhna,Assassin
+Da Ji,Assassin
+Fenrir,Assassin
+Hun Batz,Assassin
+Kali,Assassin
+Lancelot,Assassin
+Loki,Assassin
+Mercury,Assassin
+Ne Zha,Assassin
+Nemesis,Assassin
+Pele,Assassin
+Ratatoskr,Assassin
+Ravana,Assassin
+Serqet,Assassin
+Set,Assassin
+Susano,Assassin
+Thanatos,Assassin
+Thor,Assassin
+Tsukuyomi,Assassin
+Ares,Guardian
+Artio,Guardian
+Athena,Guardian
+Atlas,Guardian
+Bacchus,Guardian
+Bake Kujira,Guardian
+Cabrakan,Guardian
+Cerberus,Guardian
+Charon,Guardian
+Cthulhu,Guardian
+Fafnir,Guardian
+Ganesha,Guardian
+Geb,Guardian
+Jormungandr,Guardian
+Khepri,Guardian
+Kumbhakarna,Guardian
+Kuzenbo,Guardian
+Maui,Guardian
+Sobek,Guardian
+Sylvanus,Guardian
+Terra,Guardian
+Xing Tian,Guardian
+Yemoja,Guardian
+Ymir,Guardian
+Ah Muzen Cab,Hunter
+Anhur,Hunter
+Apollo,Hunter
+Artemis,Hunter
+Cernunnos,Hunter
+Charybdis,Hunter
+Chernobog,Hunter
+Chiron,Hunter
+Cupid,Hunter
+Danzaburou,Hunter
+Hachiman,Hunter
+Heimdallr,Hunter
+Hou Yi,Hunter
+Ishtar,Hunter
+Izanami,Hunter
+Jing Wei,Hunter
+Martichoras,Hunter
+Medusa,Hunter
+Neith,Hunter
+Nut,Hunter
+Rama,Hunter
+Skadi,Hunter
+Ullr,Hunter
+Xbalanque,Hunter
+Agni,Mage
+Ah Puch,Mage
+Anubis,Mage
+Ao Kuang,Mage
+Aphrodite,Mage
+Baba Yaga,Mage
+Baron Samedi,Mage
+Chang'e,Mage
+Chronos,Mage
+Discordia,Mage
+Eset,Mage
+Freya,Mage
+Hades,Mage
+He Bo,Mage
+Hecate,Mage
+Hel,Mage
+Hera,Mage
+Ix Chel,Mage
+Janus,Mage
+Kukulkan,Mage
+Maman Brigitte,Mage
+Merlin,Mage
+Morgan Le Fay,Mage
+Nox,Mage
+Nu Wa,Mage
+Olorun,Mage
+Persephone,Mage
+Poseidon,Mage
+Ra,Mage
+Raijin,Mage
+Scylla,Mage
+Sol,Mage
+The Morrigan,Mage
+Thoth,Mage
+Tiamat,Mage
+Vulcan,Mage
+Yu Huang,Mage
+Zeus,Mage
+Zhong Kui,Mage
+Achilles,Warrior
+Amaterasu,Warrior
+Bellona,Warrior
+Chaac,Warrior
+Cu Chulainn,Warrior
+Erlang Shen,Warrior
+Gilgamesh,Warrior
+Guan Yu,Warrior
+Hercules,Warrior
+Horus,Warrior
+King Arthur,Warrior
+Mulan,Warrior
+Nike,Warrior
+Odin,Warrior
+Osiris,Warrior
+Shiva,Warrior
+Sun Wukong,Warrior
+Surtr,Warrior
+Tyr,Warrior
+Vamana,Warrior

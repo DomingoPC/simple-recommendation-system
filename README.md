@@ -1,4 +1,4 @@
-# 🧠 **Smite God Recommendation System**
+# ⚡ **Smite God Recommendation System** 🧠
 
 This project combines data analysis and recommendation algorithms to enhance the player experience in Smite, a multiplayer online battle arena (MOBA) game in which players fight as gods. By leveraging collective intelligence, this system suggests the most suitable gods for players based on their gameplay preferences.
 
